@@ -13,12 +13,12 @@ width="60" alt="left deco" />
     </td>
     <!-- MIDDLE TEXT SLOT (KEEPING IT PINK) -->
     <td align="center" valign="middle" width="70%" style="border: none;">
-      $${\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$
-      $${\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}}$$
+      $$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$
+      $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .$$
       <br><br>
-      $${\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !}}$$
+      $$\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !$$
       <br><br>
-      $${\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}}$$
+      $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !$$
     </td>
     
     <!-- RIGHT PICTURE SLOT -->

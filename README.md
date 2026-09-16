@@ -5,11 +5,13 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com" width="90" style="vertical-align: middle; margin-right: 15px;" />
+  <img src="https://github.com/user-attachments/assets/e5501178-0813-46ea-bbe0-9595115786a4" />
+ width="90" style="vertical-align: middle; margin-right: 15px;" />
   <span style="font-size: 22px; font-weight: bold; color: #FF69B4; vertical-align: middle; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
     HI HI , WELCOME TO KENSIES PAGE !
   </span>
-  <img src="https://github.com" width="90" style="vertical-align: middle; margin-left: 15px;" />
+  <img src="https://github.com/user-attachments/assets/a0bb770e-c560-4e57-8c78-f02031db6a64" />
+"90" style="vertical-align: middle; margin-left: 15px;" />
 </p>
 
 

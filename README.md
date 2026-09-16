@@ -1,7 +1,7 @@
 <p align="left">
-  <img style="vertical-align: middle;" width="50%" alt="mlpm"  src="https://github.com/user-attachments/assets/d4291a2d-0ec1-4c8e-a47a-ccb358e16304" />
+  <img style="vertical-align: middle;" width="48%" alt="mlpm"  src="https://github.com/user-attachments/assets/d4291a2d-0ec1-4c8e-a47a-ccb358e16304" />
   <p align="right">
-<img width="50%"  alt="#2404493 - safe, screencap, pinkie pie, equestria girls, g4, my little pony equestria girls_ choose your own ending, tip toppings, animated, animated screencap, cute, diapinkes, female, gif - Derpibooru" src="https://github.com/user-attachments/assets/3f69fd6f-8c77-4b79-a88e-2d68e8297e4e" />
+<img width="48%"  alt="#2404493 - safe, screencap, pinkie pie, equestria girls, g4, my little pony equestria girls_ choose your own ending, tip toppings, animated, animated screencap, cute, diapinkes, female, gif - Derpibooru" src="https://github.com/user-attachments/assets/3f69fd6f-8c77-4b79-a88e-2d68e8297e4e" />
     
 </p>
 

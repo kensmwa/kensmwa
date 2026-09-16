@@ -11,6 +11,7 @@
   <span style="font-size: 22px; font-weight: bold; color: HotPink; vertical-align: middle; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
 $$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$
   </span>
+  <p align="center">
   <img src="https://github.com/user-attachments/assets/ee0fe08d-e828-4b9a-85dc-d4a9528269ff"
 width="90" style="vertical-align: middle; margin-left: 15px;" />
 </p>

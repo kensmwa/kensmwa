@@ -1,7 +1,7 @@
 <p align="left">
   <img width="48%" alt="mlpm1" src="https://github.com/user-attachments/assets/737f4a01-2a6a-4176-952a-73c050aa785f" />
  
-  <img width="48%" alt="mlpm2" src="https://github.com/user-attachments/assets/fba1b5d3-1897-46ee-854c-1e167b36ea70" />
+  <img width="48%" alt="mlpm2" src="src="https://github.com/user-attachments/assets/024b8757-8601-4d52-ba2d-8213897e141e" />
 
 <br>
 <p align="center">

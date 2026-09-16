@@ -1,5 +1,5 @@
 <p align="left">
-  <img style="vertical-align: top;" width="48%" alt="mlpm1" src="https://github.com/user-attachments/assets/8ca59896-bf2f-4fcc-a1f5-da82e7199008" />
+  <img style="vertical-align: top;" width="48%" alt="mlpm1" src="https://giphy.com/user-attachments/assets/8ca59896-bf2f-4fcc-a1f5-da82e7199008" />
 
   
   <span style="display: inline-block; vertical-align: top; margin-left: 20px; width: 45%;">

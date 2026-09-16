@@ -9,7 +9,7 @@
  width="100" style="vertical-align: middle; margin-right: 15px; />
     
     $$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$
-  <img src="https://github.com/user-attachments/assets/6d15ada6-0e9b-49f6-ab47-f6ae6b3330a1"
+  <img src="https://"github.com/user-attachments/assets/6d15ada6-0e9b-49f6-ab47-f6ae6b3330a1"
  width="100" style="vertical-align: middle; margin-left: 15px;/>
 </p>
 

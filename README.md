@@ -7,6 +7,8 @@
 <p align="center">
  <img src="https://github.com/user-attachments/assets/d3eff131-19f7-4724-9d89-504f4fc01933"
  width="90" style="vertical-align: middle; margin-right: 15px;" />
+  </p>
+  <p align="center">
   <span style="font-size: 22px; font-weight: bold; color: HotPink; vertical-align: middle; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
 $$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$
   </span>

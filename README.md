@@ -5,11 +5,13 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com" width="100" style="vertical-align: middle; margin-right: 15px;" />
+  <img src="https://github.com/user-attachments/assets/25e70dd3-f80c-4e9b-a779-f512ca6231e2"
+ width="100" style="vertical-align: middle; margin-right: 15px;" />
   <span style="display: inline-block; vertical-align: middle;">
     $$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$
   </span>
-  <img src="https://github.com/user-attachments/assets/7e208653-9fe9-4638-bfe5-447ec4cb6b45" width="100" style="vertical-align: middle; margin-left: 15px;" />
+  <img src="https://github.com/user-attachments/assets/6d15ada6-0e9b-49f6-ab47-f6ae6b3330a1"
+ width="100" style="vertical-align: middle; margin-left: 15px;" />
 </p>
 
 $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}$$

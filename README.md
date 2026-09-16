@@ -5,7 +5,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddd41035-b283-4b93-9529-ace4b01cdf42"
+ <img src="https://github.com/user-attachments/assets/d3eff131-19f7-4724-9d89-504f4fc01933" />
  width="90" style="vertical-align: middle; margin-right: 15px;" />
   <span style="font-size: 22px; font-weight: bold; color: #FF69B4; vertical-align: middle; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
     HI HI , WELCOME TO KENSIES PAGE !

@@ -1,1 +1,1 @@
-<img width="440" height="420" alt="My Queen So Cute Sticker - My Queen So Cute Pony - Discover   Share GIFs" src="https://github.com/user-attachments/assets/3f9f01c3-34a8-4dbb-a4fb-7c7d12af88ff" align="right"/>
+<img width="1107" height="628" alt="image" src="https://github.com/user-attachments/assets/a6189163-addb-4a09-aade-65db605f1f25" align="right"/>

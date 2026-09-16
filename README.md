@@ -1,6 +1,5 @@
 <p align="left">
-  <img style="vertical-align: top;" width="48%" alt="mlpm1" src="https://giphy.com/user-attachments/assets/8ca59896-bf2f-4fcc-a1f5-da82e7199008" />
-
+  <img style="vertical-align: top;" width="48%" alt="mlpm1" src="https://github.com/user-attachments/assets/1489bc4e-ed77-4f2a-aa14-a37798ac12fc" />
   
   <span style="display: inline-block; vertical-align: top; margin-left: 20px; width: 45%;">
     <br>
@@ -14,5 +13,5 @@
 </p>
 
 <p align="right">
-  <img width="48%" alt="mlpm2" src="https://github.com/user-attachments/assets/e6978acc-0f1b-41dd-8950-037f2046801b" />
+  <img width="48%" alt="mlpm2" src="https://github.com/user-attachments/assets/fa87d4d7-2d5a-4868-a069-0a579ce178cd" />
 

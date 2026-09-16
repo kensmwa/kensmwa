@@ -1,1 +1,5 @@
-<img width="408" height="408" alt="#1431023 - safe, pinkie pie, earth pony, pony, g4, animated, female, gif, party cannon, simple background, solo, transparent background - Derpibooru" src="https://github.com/user-attachments/assets/882f204a-4035-482b-8f71-a746290dad4f" />
+<div align="right">
+  <img width="300" height="300" alt="Pinkie Pie" src="https://github.com" />
+</div>
+
+𝒲elcome to KENSIES page ! (˶>⩊<˶)

@@ -1,15 +1,15 @@
 <p align="left">
-  <img width="48%" alt="mlpm1"src="https://github.com/user-attachments/assets/737f4a01-2a6a-4176-952a-73c050aa785f" />
+  <img width="48%" alt="mlpm1" src="https://github.com/user-attachments/assets/737f4a01-2a6a-4176-952a-73c050aa785f" />
  
   <img width="48%" alt="mlpm2" src="https://github.com/user-attachments/assets/fba1b5d3-1897-46ee-854c-1e167b36ea70" />
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e644b6b-f047-4632-936c-07a0c93e62d6
- width="100" style="vertical-align: middle; margin-right: 15px;" />
+  <img src="https://github.com/user-attachments/assets/3e644b6b-f047-4632-936c-07a0c93e62d6"
+ width="100" style="vertical-align: middle; margin-right: 15px; />
     $$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$
   <img src="https://github.com/user-attachments/assets/6d15ada6-0e9b-49f6-ab47-f6ae6b3330a1"
- width="100" style="vertical-align: middle; margin-left: 15px;" />
+ width="100" style="vertical-align: middle; margin-left: 15px;/>
 </p>
 
 $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}$$

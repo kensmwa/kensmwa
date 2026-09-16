@@ -12,7 +12,7 @@
   </span>
   <img src="https://github.com/user-attachments/assets/ee0fe08d-e828-4b9a-85dc-d4a9528269ff"
 
-"90" style="vertical-align: middle; margin-left: 15px;" />
+width="90" style="vertical-align: middle; margin-left: 15px;" />
 </p>
 
 

@@ -1,1 +1,1 @@
-<img width="440" height="420" alt="MyQueenSoCuteSticker-MyQueenSoCutePony-DiscoverShareGIFs-ezgif com-remove-background" src="https://github.com/user-attachments/assets/dfa74c26-345f-4607-8a32-417643ddaa3e" align="right"/>
+<img width="500" height="281" alt="mlpm" src="https://github.com/user-attachments/assets/7cc23d52-8981-403f-bdb2-278356ed2bb8" />

@@ -1,14 +1,14 @@
 <p align="left">
-    <img style="vertical-align: top;" width="48%" alt="mlpm1" src="https://media.giphy.com/media/UX06yZ6erE0fK/giphy.gif"/>
+  <img width="48%" alt="mlpm1"src="https://github.com/user-attachments/assets/737f4a01-2a6a-4176-952a-73c050aa785f" />
+ 
+  <img width="48%" alt="mlpm2" src="https://github.com/user-attachments/assets/fba1b5d3-1897-46ee-854c-1e167b36ea70" />
 
-  <span style="display: inline-block; vertical-align: top; margin-left: 20px; width: 45%;">
-    <h3>HI HI, WELCOME TO KENSIES PAGE !</h3>
-    <p>call me kenny or kensie, I go by both! my pronouns are SHE/HER ONLY.</p>
-    <p>I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you!</p>
-    <p>I have bad social anxiety so dont expect me to come up to you first, sorry!</p>
-  </span>
-</p>
+<br>
 
-<p align="right">
-  <img width="48%" alt="mlpm2" src="https://github.com/user-attachments/assets/8cacf2d4-1878-441c-a7b6-473cf9ed02a7" />
+# $${\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}}$$
 
+$${\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}}$$
+
+$${\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !}}$$
+
+$${\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}}$$

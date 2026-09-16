@@ -1,16 +1,17 @@
 <p align="left">
-  <img style="vertical-align: middle;" width="47%" alt="mlpm"  src="https://github.com/user-attachments/assets/d4291a2d-0ec1-4c8e-a47a-ccb358e16304" />
-  <p align="right">
-<img width="47%"  alt="#2404493 - safe, screencap, pinkie pie, equestria girls, g4, my little pony equestria girls_ choose your own ending, tip toppings, animated, animated screencap, cute, diapinkes, female, gif - Derpibooru" src="https://github.com/user-attachments/assets/3f69fd6f-8c77-4b79-a88e-2d68e8297e4e" />
-    
+  <img style="vertical-align: top;" width="48%" alt="mlpm1" src="https://github.com/user-attachments/assets/133ed86d-2e6d-48a9-9dd7-4a242dc7feea" />
+
+  <span style="display: inline-block; vertical-align: top; margin-left: 20px; width: 45%;">
+    <br>
+    # $${\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}}$$
+    $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}$$
+    <br><br>
+    $$\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !}$$
+    <br><br>
+    $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}$$
+  </span>
 </p>
 
-<br>
+<p align="right">
+  <img width="48%" alt="mlpm2" "https://github.com/user-attachments/assets/c690b5f2-ffd7-416c-b352-8efe4a3628f4" />
 
-# $${\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}}$$
-
-$${\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}}$$
-
-$${\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !}}$$
-
-$${\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}}$$

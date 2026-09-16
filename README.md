@@ -1,5 +1,5 @@
 <p align="left">
-  <img style="vertical-align: middle;" width="80%" alt="mlpm"  src="https://github.com/user-attachments/assets/d4291a2d-0ec1-4c8e-a47a-ccb358e16304" />
+  <img style="vertical-align: middle;" width="50%" alt="mlpm"  src="https://github.com/user-attachments/assets/d4291a2d-0ec1-4c8e-a47a-ccb358e16304" />
   
 </p>
 

@@ -5,13 +5,13 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e644b6b-f047-4632-936c-07a0c93e62d6"
- width="100" style="vertical-align: middle; margin-right: 15px; />
-    
-    $$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$
-  <img src="https://"github.com/user-attachments/assets/6d15ada6-0e9b-49f6-ab47-f6ae6b3330a1"
- width="100" style="vertical-align: middle; margin-left: 15px;/>
+  <img src="https://github.com" width="90" style="vertical-align: middle; margin-right: 15px;" />
+  <span style="font-size: 22px; font-weight: bold; color: #FF69B4; vertical-align: middle; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+    HI HI , WELCOME TO KENSIES PAGE !
+  </span>
+  <img src="https://github.com" width="90" style="vertical-align: middle; margin-left: 15px;" />
 </p>
+
 
 $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}$$
 

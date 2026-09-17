@@ -11,3 +11,8 @@ $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are 
 $$\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !}$$
 
 $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}$$
+
+---
+<p align="right"> <img width="600" height="1000" alt="pobrany plik (2)" src="https://github.com/user-attachments/assets/504027d4-477e-4fa9-b1df-61fe7d7e91a7" />
+
+

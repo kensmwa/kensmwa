@@ -8,7 +8,7 @@
   <tr>
     <!-- LEFT IMAGE (Slot for your new image) -->
     <td align="center" valign="middle" width="25%">
-     <img width="100%" height="461" alt="obraz_2026-09-17_135619738-Photoroom" src="https://github.com/user-attachments/assets/3dfb91f2-b26c-4e42-b9ae-cddb29368a3f" />
+     <img width="150" height="461" alt="obraz_2026-09-17_135619738-Photoroom" src="https://github.com/user-attachments/assets/3dfb91f2-b26c-4e42-b9ae-cddb29368a3f" />
 
     </td>
     

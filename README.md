@@ -48,6 +48,8 @@ $\color{hotpink}\text{- cuddles , kisses , and hiding is always allowed and heav
 
 $\color{hotpink}\text{- I dont like to get involved in pranks or drama !}$
 
+$\color{hotpink}\text{• I have depression so I get burnt out easily .}$<br>
+
 </td></tr></table>
 
 

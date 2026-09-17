@@ -48,12 +48,10 @@ $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to
       </ul>
 
     </td>
-
-    <!-- RIGHT SIDE: GIF COLUMN -->
     <td align="right" valign="top" width="35%">
-     <img width="400" height="439" alt="#1796852 - safe, screencap, pinkie pie, sunset shimmer, all the world&#39;s off stage, all the world&#39;s off stage_ pinkie pie, equestria girls, g4, my little pony equestria girls_ better together, angry, balloon, geode " src="https://github.com/user-attachments/assets/d1eddd38-4996-4d05-b55e-1d55d1004b4b" />
+      <img width="498" height="498" alt="pobrany plik (3)" src="https://github.com/user-attachments/assets/6b5afd30-b747-4125-941b-33d79f08a8be" />
 
-    </tr></table>
+    </td>
   </tr>
 </table>
 

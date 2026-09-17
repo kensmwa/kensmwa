@@ -30,7 +30,7 @@ $\color{hotpink}\text{- taking inspo or copying my ponies, I WILL BLOCK YOU!}$<b
 $\color{hotpink}\text{- sexual jokes, actions. this makes me very uncomfortable.}$<br>
 $\color{hotpink}\text{- ragebaiters, please just go do it to someone else.}$<br>
 $\color{hotpink}\text{- jokes about SH or suicide. I struggle with this and dont tolerate it.}$<br>
-$\color{hotpink}\text{- doubles or yumeshippers haters. If you dont like it just block / hide me.}$
+$\color{hotpink}\text{- doubles or yumeshippers haters. If you dont like it just block me.}$
 </td><td align="right" valign="top" width="40%">
 <img width="380" height="380" src="https://github.com/user-attachments/assets/281f0c19-0f44-4bda-9817-d783c6162713" />
 

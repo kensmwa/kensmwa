@@ -15,5 +15,6 @@ $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to
 
 
 
-<p align="left"> <img width="200" alt="#1944158 - animated, apron, cartoon physics, clothes, cookie, cropped, cupcake, cute, diapinkes, equestria girls, equestria girls series, food, gif, hammerspace, hammerspace hair, legs, oven, pinkie being pinkie, p" src="https://github.com/user-attachments/assets/4df8fc8a-80cb-4d2f-a7d1-bd79cfc7fa88" />
+
+<p align="left"> <img width="300" alt="#1944158 - animated, apron, cartoon physics, clothes, cookie, cropped, cupcake, cute, diapinkes, equestria girls, equestria girls series, food, gif, hammerspace, hammerspace hair, legs, oven, pinkie being pinkie, p" src="https://github.com/user-attachments/assets/4df8fc8a-80cb-4d2f-a7d1-bd79cfc7fa88" />
 

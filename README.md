@@ -7,8 +7,8 @@
 <table border="0" align="center" width="100%">
   <tr>
     <!-- LEFT IMAGE (Slot for your new image) -->
-    <td align="center" valign="middle" width="25%">
-     <img width="150" height="461" alt="obraz_2026-09-17_135619738-Photoroom" src="https://github.com/user-attachments/assets/3dfb91f2-b26c-4e42-b9ae-cddb29368a3f" />
+    <td align="center" valign="middle" width="150">
+     <img width="100%" height="461" alt="obraz_2026-09-17_135619738-Photoroom" src="https://github.com/user-attachments/assets/3dfb91f2-b26c-4e42-b9ae-cddb29368a3f" />
 
     </td>
     
@@ -26,7 +26,7 @@
     </td>
     
     <!-- RIGHT IMAGE (Slot for your new image) -->
-    <td align="center" valign="middle" width="25%">
+    <td align="center" valign="middle" width="150">
       <img width="100%" alt="obraz_2026-09-17_140249898-Photoroom" src="https://github.com/user-attachments/assets/38d8897d-05ce-40fb-91a5-231e35eee1de" />
 
     </td>

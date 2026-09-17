@@ -16,7 +16,7 @@ $\color{hotpink}\text{Supports, participates, tolerates, or justify any of the a
 <br>
 $\color{hotpink}\text{🧁 PERSONAL DNI LIST :}$<br>
 $\color{hotpink}\text{- please DNI if youre under 10  OR above the age of 17.}$<br>
-$\color{hotpink}\text{- do NOT roleplay with me without permission, it makes me uncomfortable.}$<br>
+$\color{hotpink}\text{- do NOT roleplay with me without permission .}$<br>
 $\color{hotpink}\text{- if my name CLEARLY says DNI please just dont interact, I will ignore you.}$<br>
 $\color{hotpink}\text{- taking inspo or copying my ponies, I WILL BLOCK YOU!}$<br>
 $\color{hotpink}\text{- sexual jokes, actions. this makes me very uncomfortable.}$<br>

@@ -55,7 +55,7 @@ $\color{hotpink}\text{• I have depression so I get burnt out easily .}$<br>
   
 ![image](https://komarev.com/ghpvc/?username=kensmwa&color=ff69b4&style=flat-square)
 <br>
-<img src="https://github.com/user-attachments/assets/3a5cce8e-71af-46aa-9d72-b51619fe65b8" width="380" align="right" />
+<img src="https://github.com/user-attachments/assets/3a5cce8e-71af-46aa-9d72-b51619fe65b8" width="280" align="right" />
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: none !important; border-collapse: collapse; background: transparent;">
   <tr>
     <!-- LEFT SIDE: GIF -->

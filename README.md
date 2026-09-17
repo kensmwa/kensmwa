@@ -13,7 +13,7 @@
     <!-- MIDDLE COLUMN (Your existing pink text and little decorative stamps) -->
     <td align="center" valign="middle" width="50%">
       <p align="center">
-      <img width="90" alt="pinki_by_glancojusticar-d3humpy-removebg-preview" src="https://github.com/user-attachments/assets/5cc8bdbf-3203-42b3-9736-65df83c1987a" style="vertical-align: middle; margin-right: 15px;"/> 
+      <img width="90" alt="pinki_by_glancojusticar-d3humpy-removebg-preview" src="https://github.com/user-attachments/assets/5cc8bdbf-3203-42b3-9736-65df83c1987a" style="vertical-align: middle; margin-right: 15px;" />
       
         <font color="HotPink" size="4"><b>HI HI , WELCOME TO KENSIES PAGE !</b></font>
         <img src="https://github.com/ee0fe08d-e828-4b9a-85dc-d4a9528269ff" width="90" style="vertical-align: middle; margin-left: 15px;" />

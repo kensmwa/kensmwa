@@ -11,43 +11,28 @@ $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are 
 $$\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !}$$
 
 $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}$$
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <!-- LEFT SIDE: DNI LIST -->
-    <td valign="top" width="65%">
-      <p> <b>BASIC DNI LIST :</b></p>
-      <hr style="background-color: hotpink; height: 2px; border: none; margin-bottom: 10px;" />
-      
-      <ul>
-        <li> - Homophobic, Transphobic, Xenophobic, Islamophobic, etc</li>
-        <li> - Misogynistic</li>
-        <li> - Racist, Sexist, Ableist, Discrimination, etc</li>
-        <li> - Invalidates A Person's Pronouns / Gender / Identity</li>
-        <li> - Pedophile, Sexualizes Minors, Jokes About R*pe, etc</li>
-      </ul>
-      <p><i>Supports, participates, tolerates, or justify any of the above</i></p>
 
-      <br />
-      <!-- PERSONAL DNI -->
-      <p> <b>PERSONAL DNI LIST :</b></p>
-      <hr style="background-color: hotpink; height: 2px; border: none; margin-bottom: 10px;" />
-      <ul>
-        <li> - please DNI if youre under the age of 10 years old OR above the age of 17.</li>
-        <li> - do NOT roleplay with me without permission, it makes me uncomfortable.</li>
-        <li> - if my name CLEARLY says DNI please just dont interact, I will ignore you.</li>
-        <li> - taking inspo or copying my ponies, I WILL BLOCK YOU!</li>
-        <li> - sexual jokes, actions. this makes me very uncomfortable.</li>
-        <li> - ragebaiters, please just go do it to someone else.</li>
-        <li> -jokes about SH or suicide. I struggle with this and dont tolerate the jokes.</li>
-        <li> - doubles or yumeshippers haters. If you dont like it just block / hide me.</li>
-      </ul>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="60%">
+$\color{hotpink}\text{🧁 BASIC DNI LIST :}$<br>
+$\color{hotpink}\text{- Homophobic, Transphobic, Xenophobic, Islamophobic, etc}$<br>
+$\color{hotpink}\text{- Misogynistic}$<br>
+$\color{hotpink}\text{- Racist, Sexist, Ableist, Discrimination, etc}$<br>
+$\color{hotpink}\text{- Invalidates A Person's Pronouns / Gender / Identity}$<br>
+$\color{hotpink}\text{- Pedophile, Sexualizes Minors, Jokes About R*pe, etc}$<br>
+<br>
+$\color{hotpink}\text{Supports, participates, tolerates, or justify any of the above}$<br>
+<br>
+$\color{hotpink}\text{🧁 PERSONAL DNI LIST :}$<br>
+$\color{hotpink}\text{- please DNI if youre under the age of 10 years old OR above the age of 17.}$<br>
+$\color{hotpink}\text{- do NOT roleplay with me without permission, it makes me uncomfortable.}$<br>
+$\color{hotpink}\text{- if my name CLEARLY says DNI please just dont interact, I will ignore you.}$<br>
+$\color{hotpink}\text{- taking inspo or copying my ponies, I WILL BLOCK YOU!}$<br>
+$\color{hotpink}\text{- sexual jokes, actions. this makes me very uncomfortable.}$<br>
+$\color{hotpink}\text{- ragebaiters, please just go do it to someone else.}$<br>
+$\color{hotpink}\text{- jokes about SH or suicide. I struggle with this and dont tolerate the jokes.}$<br>
+$\color{hotpink}\text{- doubles or yumeshippers haters. If you dont like it just block / hide me.}$
+</td><td align="right" valign="top" width="40%">
+<img width="380" height="380" src="https://github.com/user-attachments/assets/281f0c19-0f44-4bda-9817-d783c6162713" />
 
-    </td>
-    <td align="right" valign="top" width="35%">
-      <img width="498" height="498" alt="pobrany plik (3)" src="https://github.com/user-attachments/assets/6b5afd30-b747-4125-941b-33d79f08a8be" />
-
-    </tr></table>
-  </tr>
-</table>
-
+</td></tr></table>
 

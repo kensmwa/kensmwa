@@ -8,7 +8,7 @@
   <img src="https://github.com/user-attachments/assets/c97d5dcf-54a9-4137-81d0-8c50523761f6" width="140" height="140" align="left" />
   <img src="https://github.com/user-attachments/assets/4d6aac2c-160e-4429-a38f-19feeacd126b"  width="140" height="140" align="right" />
 
-  $$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$<br>
+  $$\color{HotPink}\text{🧁   HI HI , WELCOME TO KENSIES PAGE !  🧁}$$<br>
   $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}$$<br>
   $$\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !}$$<br>
   $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}$$

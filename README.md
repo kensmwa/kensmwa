@@ -52,6 +52,32 @@ $\color{hotpink}\text{• I have depression so I get burnt out easily .}$<br>
 
 </td></tr></table>
 
+  
+![image](https://komarev.com/ghpvc/?username=kensmwa&color=ff69b4&style=flat-square)
+<br>
+<img src="https://github.com/user-attachments/assets/3a5cce8e-71af-46aa-9d72-b51619fe65b8" width="380" align="right" />
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: none !important; border-collapse: collapse; background: transparent;">
+  <tr>
+    <!-- LEFT SIDE: GIF -->
+   <td valign="middle" width="25%" style="border: none !important;">
+      <img src="https://github.com/user-attachments/assets/558bdb1d-d490-452e-b538-01106786c255" width="200" />
+    </td>
+    <!-- RIGHT SIDE: TOGGLE BOX -->
+    <td valign="middle" width="50%" style="border: none !important;">
+      <details>
+              <summary><h3>$\color{hotpink}\text{🧁 CLICK TO UNLOCK FUN FACTS !}$</h3></summary>
+        <br>
+        $\color{hotpink}\text{- I love pinkie pie wow surprise !}$<br>
+        $\color{hotpink}\text{- I am a big fan of ILLIT !}$<br>
+        $\color{hotpink}\text{- I aim to be a marine biologist in the future !}$
+        $\color{hotpink}\text{- my favorite animals are snow leopards and bunnies !}$
+        $\color{hotpink}\text{- I LOVE gaming and am a sucker for story games !}$
+        $\color{hotpink}\text{- I do not what more to put ok !}$
+      </details>
+            </td>
+  </tr>
+</table>
+
 
 
 

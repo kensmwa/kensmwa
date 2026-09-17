@@ -72,7 +72,7 @@ $\color{hotpink}\text{• I have depression so I get burnt out easily .}$<br>
         $\color{hotpink}\text{- I aim to be a marine biologist in the future !}$
         $\color{hotpink}\text{- my favorite animals are snow leopards and bunnies !}$
         $\color{hotpink}\text{- I LOVE gaming and am a sucker for story games !}$
-        $\color{hotpink}\text{- I do not what more to put ok !}$
+        
       </details>
             </td>
   </tr>

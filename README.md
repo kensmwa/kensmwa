@@ -13,7 +13,7 @@ $$\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I wi
 $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}$$
 
 ---
-<p align="right"> <img width="600"src="https://github.com/user-attachments/assets/cd111a9a-05d7-4925-a472-0a8f2357a0bb" />
+<p align="right"> <img width="500"src="https://github.com/user-attachments/assets/cd111a9a-05d7-4925-a472-0a8f2357a0bb" />
 
 
 

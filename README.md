@@ -2,7 +2,8 @@
   <img width="48%" alt="mlpm2" src="https://github.com/user-attachments/assets/53a2cf87-1501-4444-aedf-d3ea6b5b7772" />
 
 <br>
-<p align="center"><img src="https://github.com" width="90" /></p>
+<p align="center"><img width="90" alt="obraz_2026-09-17_140249898-Photoroom" src="https://github.com/user-attachments/assets/b4d02da5-4d92-4a86-9357-b45767918e08" />
+
 $$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$
 
 $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}$$

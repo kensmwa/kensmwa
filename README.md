@@ -33,19 +33,19 @@ $\color{hotpink}\text{- doubles or yumeshippers haters. If you dont like it just
 $\color{hotpink}\text{🧁 THINGS ABOUT ME YOU SHOULD KNOW BEFORE INTERACTING 🧁}$<br><br>
 $\color{hotpink}\text{• I have social anxiety so I might be awkward and shy at first , be patient !}$<br>
   
-$\color{hotpink}\text{• I get mood swings all the time so one second I can be happy the next angry}$<br>
+$\color{hotpink}\text{-I have very bad mood swings so interact with caution }$<br>
 
-$\color{hotpink}\text{• I get overwhelmed really easily so I might just walk away, shut down, or leave}$<br>
+$\color{hotpink}\text{- I get overwhelmed really easily so I might just walk away, shut down, or leave}$<br>
 
-$\color{hotpink}\text{• I dont understand jokes sometimes so I might not be able to tell if youre serious or not}$<br>
+$\color{hotpink}\text{- I dont understand jokes sometimes so I might not be able to tell if ur srs}$<br>
 
-$\color{hotpink}\text{• I am super friendly as long as you are , and will match your energy !}$<br>
+$\color{hotpink}\text{- I am super friendly as long as you are , and will match your energy !}$<br>
 
-$\color{hotpink}\text{• I don't mind boops but PLEASE refrain from spamming them .}$<br>
+$\color{hotpink}\text{- I don't mind boops but PLEASE refrain from spamming them .}$<br>
 
-$\color{hotpink}\text{• cuddles , kisses , and hiding is always allowed and heavily encouraged !}$<br>
+$\color{hotpink}\text{- cuddles , kisses , and hiding is always allowed and heavily encouraged !}$<br>
 
-$\color{hotpink}\text{• I can get really excited whenever I see my interests sorry if im too much !}$
+$\color{hotpink}\text{- I can get really excited whenever I see my interests sorry if im too much !}$
 
 </td></tr></table>
 

@@ -4,7 +4,7 @@
   <img width="48%" alt="mlpm2" src="https://github.com/user-attachments/assets/53a2cf87-1501-4444-aedf-d3ea6b5b7772" />
 
 <br>
-<p align="center">
+<p align="right">
  <img src="https://github.com/user-attachments/assets/d3eff131-19f7-4724-9d89-504f4fc01933"
  width="90" style="vertical-align: middle; margin-right: 15px;" />
   </p>

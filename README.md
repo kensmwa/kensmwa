@@ -4,7 +4,7 @@
 <img width="1299" height="400" alt="HI HI , WELCOME TO KENSIES PAGE ! call me kenny or kensie , I go by both ! my pronouns are SHEHER ONLY   I am 14 years old so DNI if youre 18+ OR below 10 or I will block  hide you ! I have bad so" src="https://github.com/user-attachments/assets/d7dc149a-3d54-47ba-836c-d529c01f85b0" />
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="60%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="65%">
 $\color{hotpink}\text{🧁 BASIC DNI LIST :}$<br>
 $\color{hotpink}\text{- Homophobic, Transphobic, Xenophobic, Islamophobic, etc}$<br>
 $\color{hotpink}\text{- Misogynistic}$<br>
@@ -23,8 +23,34 @@ $\color{hotpink}\text{- sexual jokes, actions. this makes me very uncomfortable.
 $\color{hotpink}\text{- ragebaiters, please just go do it to someone else.}$<br>
 $\color{hotpink}\text{- jokes about SH or suicide. I struggle with this and dont tolerate it.}$<br>
 $\color{hotpink}\text{- doubles or yumeshippers haters. If you dont like it just block me.}$
-</td><td align="right" valign="top" width="40%">
+</td><td align="right" valign="top" width="35%">
 <img width="380" height="380" src="https://github.com/user-attachments/assets/281f0c19-0f44-4bda-9817-d783c6162713" />
 
+<br>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="35%">
+<img width="380"src="https://github.com/user-attachments/assets/6cddcb3a-4d3f-4196-b027-b64637a59730" /></td><td valign="top" width="65%">
+$\color{hotpink}\text{🧁 THINGS ABOUT ME YOU SHOULD KNOW BEFORE INTERACTING 🧁}$<br><br>
+$\color{hotpink}\text{• I have social anxiety so I might be awkward and shy at first , be patient !}$<br>
+  
+$\color{hotpink}\text{• I get mood swings all the time so one second I can be happy the next angry}$<br>
+
+$\color{hotpink}\text{• I get overwhelmed really easily so I might just walk away, shut down, or leave}$<br>
+
+$\color{hotpink}\text{• I dont understand jokes sometimes so I might not be able to tell if youre serious or not}$<br>
+
+$\color{hotpink}\text{• I am super friendly as long as you are , and will match your energy !}$<br>
+
+$\color{hotpink}\text{• I don't mind boops but PLEASE refrain from spamming them .}$<br>
+
+$\color{hotpink}\text{• cuddles , kisses , and hiding is always allowed and heavily encouraged !}$<br>
+
+$\color{hotpink}\text{• I can get really excited whenever I see my interests sorry if im too much !}$
+
 </td></tr></table>
+
+
+
+
+
 

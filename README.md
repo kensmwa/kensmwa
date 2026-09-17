@@ -4,9 +4,15 @@
 <br>
 <p align="center"><img width="90" alt="obraz_2026-09-17_140249898-Photoroom" src="https://github.com/user-attachments/assets/b4d02da5-4d92-4a86-9357-b45767918e08" />
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="left" valign="middle" width="20%"> <img width="80" height="80" alt="obraz_2026-09-17_161356465-Photoroom" src="https://github.com/user-attachments/assets/b07b56e9-2387-4f4c-9f43-fd7b0f808807" />
-<td valign="middle" width="60%">$$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$<br>$$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}$$<br>$$\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !}$$<br>$$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}$$</td><td align="right" valign="middle" width="20%"><img width="80" height="80" alt="obraz_2026-09-17_135619738-Photoroom" src="https://github.com/user-attachments/assets/234ead99-118b-43ae-86a3-643a161852de" </td/>
-td></tr></table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c97d5dcf-54a9-4137-81d0-8c50523761f6" width="150" height="150" align="left" />
+  <img src="https://github.com/user-attachments/assets/4d6aac2c-160e-4429-a38f-19feeacd126b"  width="150" height="150" align="right" />
+
+  $$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$<br>
+  $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}$$<br>
+  $$\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !}$$<br>
+  $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}$$
+</p>
 
 
 <br>

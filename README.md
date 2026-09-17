@@ -1,6 +1,6 @@
 <img width="48%" alt="mlpm1" src="https://github.com/user-attachments/assets/737f4a01-2a6a-4176-952a-73c050aa785f" />
   <img width="48%" alt="mlpm2" src="https://github.com/user-attachments/assets/53a2cf87-1501-4444-aedf-d3ea6b5b7772" />
-</p>
+
 <br>
 <table border="0" align="center" width="100%">
   <tr>

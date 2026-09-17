@@ -16,8 +16,6 @@ $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to
   <tr>
     <!-- LEFT SIDE: DNI LIST -->
     <td valign="top" width="65%">
-
-     
       <p> <b>BASIC DNI LIST :</b></p>
       <hr style="background-color: hotpink; height: 2px; border: none; margin-bottom: 10px;" />
       
@@ -31,11 +29,9 @@ $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to
       <p><i>Supports, participates, tolerates, or justify any of the above</i></p>
 
       <br />
-
       <!-- PERSONAL DNI -->
       <p> <b>PERSONAL DNI LIST :</b></p>
       <hr style="background-color: hotpink; height: 2px; border: none; margin-bottom: 10px;" />
-      
       <ul>
         <li> - please DNI if youre under the age of 10 years old OR above the age of 17.</li>
         <li> - do NOT roleplay with me without permission, it makes me uncomfortable.</li>
@@ -51,7 +47,7 @@ $$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to
     <td align="right" valign="top" width="35%">
       <img width="498" height="498" alt="pobrany plik (3)" src="https://github.com/user-attachments/assets/6b5afd30-b747-4125-941b-33d79f08a8be" />
 
-    </td>
+    </tr></table>
   </tr>
 </table>
 

@@ -3,11 +3,7 @@
 
 <br>
 
-        <font color="HotPink" size="4"><b>HI HI , WELCOME TO KENSIES PAGE !</b></font>
-        <img src="https://github.com/ee0fe08d-e828-4b9a-85dc-d4a9528269ff" width="90" style="vertical-align: middle; margin-left: 15px;" />
-      </p>
-      <p align="center"><font color="HotPink">call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .</font></p>
-      <p align="center"><font color="HotPink">I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !</font></p>
-      <p align="center"><font color="HotPink">I have bad social anxiety so dont expect me to come up to you first , sorry !</font></p>
-    </td>
-
+$$\color{HotPink}\text{HI HI , WELCOME TO KENSIES PAGE !}$$
+$$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}$$
+$$\color{HotPink}\text{I am 14 years old so DNI if youre 18+ OR below 10 or I will block / hide you !}$$
+$$\color{HotPink}\text{I have bad social anxiety so dont expect me to come up to you first , sorry !}$$

@@ -5,8 +5,8 @@
 <p align="center"><img width="90" alt="obraz_2026-09-17_140249898-Photoroom" src="https://github.com/user-attachments/assets/b4d02da5-4d92-4a86-9357-b45767918e08" />
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c97d5dcf-54a9-4137-81d0-8c50523761f6" width="140" height="140" align="left" />
-  <img src="https://github.com/user-attachments/assets/4d6aac2c-160e-4429-a38f-19feeacd126b"  width="140" height="140" align="right" />
+  <img src="https://github.com/user-attachments/assets/c97d5dcf-54a9-4137-81d0-8c50523761f6" width="140" height="160" align="left" />
+  <img src="https://github.com/user-attachments/assets/4d6aac2c-160e-4429-a38f-19feeacd126b"  width="140" height="160" align="right" />
 
   $$\color{HotPink}\text{🧁   HI HI , WELCOME TO KENSIES PAGE !  🧁}$$<br>
   $$\color{HotPink}\text{call me kenny or kensie , I go by both ! my pronouns are SHE/HER ONLY .}$$<br>

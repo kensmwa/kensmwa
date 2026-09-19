@@ -74,15 +74,12 @@ $$\color{#2ea44f}\text{example: someone being rude to me , making weird discomfo
 
 $$\color{#2ea44f}\text{If I have my friends with me they will defend me , but if im alone ill probably just block / hide you , move , or leave the game .}$$
 
-$$\color{#2ea44f}\text{It is just a fictional game ! How can you be THIS sensitive !}$$
+$$\color{#2ea44f}\text{"It is just a fictional game ! How can you be THIS sensitive !"}$$
 
-$$\color{#2ea44f}\text{I have been bullied for years now , so I am very sensitive no matter if it is a game or not . I cant help it if my anxiety is really bad . Mental health matters .}$$
+$$\color{#2ea44f}\text{I have been bullied for years now , so I am very sensitive no matter if it is a game or not . I cant help it if my anxiety is really bad . .}$$
 
-$$\color{#2ea44f}\text{Also please refrain from making any suicide or self harm jokes around me . I am struggling with depression and self harm for years now , and}$$
-$$\color{#2ea44f}\text{recently was in the hospital after a failed attempt so its a very sensitive topic for me .}$$
-
-$$\color{#2ea44f}\text{Thank you for reading , and dont be scared to come up to me otherwise , I am a very friendly person !}$$
-
+$$\color{#2ea44f}\text{Also please refrain from making any suicide or self harm jokes around me . I am struggling with depression and self harm for years now , }$$
+$$\color{#2ea44f}\text{and recently was in the hospital after a failed attempt so its a very sensitive topic for me .}$$
 
 $$\color{#2ea44f}\text{Thank you for reading , and dont be scared to come up to me otherwise , I am a very friendly person !}$$
 

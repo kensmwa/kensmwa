@@ -60,7 +60,7 @@ $\color{green}\text{• I have depression so I get burnt out easily .}$<br>
 
 <p align="center">
   <!-- Typing Lyric Effect -->
-  <img[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CA6F&width=435&lines=strength+doesnt+make+a+hero)](https://git.io/typing-svg)Fira+Code&center=true&size=50&pause=1000&color=F7CB47&background=00000000&width=800&height=100&lines=strength+doesnt+make+a+hero+" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=40&color=12A641&background=08FF9800&width=800&height=100&lines=strength+doesnt+make+a+hero" />
 </p>
 
 <!-- Fully Stretched Centered GIF Banner -->

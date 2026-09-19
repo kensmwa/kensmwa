@@ -60,14 +60,31 @@ $\color{green}\text{• I have depression so I get burnt out easily .}$<br>
 
 <p align="center">
   <!-- Typing Lyric Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font-Fira+Code&center=true&size=50&pause=1000&color=F7CB47&background=00000000&width=800&height=100&lines=strength+doesnt+make+a+hero+" />
+  <img[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CA6F&width=435&lines=strength+doesnt+make+a+hero)](https://git.io/typing-svg)Fira+Code&center=true&size=50&pause=1000&color=F7CB47&background=00000000&width=800&height=100&lines=strength+doesnt+make+a+hero+" />
 </p>
 
+<!-- Fully Stretched Centered GIF Banner -->
 <p align="center">
-  <!-- Centered Deku Graphic -->
-  <img src="https://github.com/user-attachments/assets/3bdbcaa3-5d68-458c-aa73-719b85d5b8d0" width="100%">
+  <img src="https://github.com/user-attachments/assets/27ed7e6b-e2dd-4fa2-9b52-b39f09ddba8e" width="100%" />
 </p>
+IMPORTANT ! :
 
+$$\color{#2ea44f}\text{I am a very sensitive person with bad anxiety , and I can get anxiety attacks over the smallest things .}$$
+$$\color{#2ea44f}\text{example: someone being rude to me , making weird discomforting jokes , dragging me into drama , making me uncomfortable on purpose .}$$
+
+$$\color{#2ea44f}\text{If I have my friends with me they will defend me , but if im alone ill probably just block / hide you , move , or leave the game .}$$
+
+$$\color{#2ea44f}\text{It is just a fictional game ! How can you be THIS sensitive !}$$
+
+$$\color{#2ea44f}\text{I have been bullied for years now , so I am very sensitive no matter if it is a game or not . I cant help it if my anxiety is really bad . Mental health matters .}$$
+
+$$\color{#2ea44f}\text{Also please refrain from making any suicide or self harm jokes around me . I am struggling with depression and self harm for years now , and}$$
+$$\color{#2ea44f}\text{recently was in the hospital after a failed attempt so its a very sensitive topic for me .}$$
+
+$$\color{#2ea44f}\text{Thank you for reading , and dont be scared to come up to me otherwise , I am a very friendly person !}$$
+
+
+$$\color{#2ea44f}\text{Thank you for reading , and dont be scared to come up to me otherwise , I am a very friendly person !}$$
 
 
 

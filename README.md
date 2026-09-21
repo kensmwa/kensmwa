@@ -1,8 +1,7 @@
-<img width="100%" src="https://github.com/user-attachments/assets/9c1f1a32-eb36-48d8-accb-377faf4e1cdf" />
+<img width="1920" height="1080" alt="O" src="https://github.com/user-attachments/assets/f83d4212-797f-4f92-9ea3-100deebec3d5" />
 
+<img width="1299" height="400" alt="HI HI , WELCOME TO KENSIES PAGE ! call me kenny or kensie , I go by both ! my pronouns are SHEHER ONLY   I am 14 years old so DNI if youre 18+ OR below 10 or I will block  hide you ! I have bad so (2)" src="https://github.com/user-attachments/assets/eb35545e-eb8f-43aa-bafd-363df0599e05" />
 
-
-<img width="1299" height="400" alt="HI HI , WELCOME TO KENSIES PAGE ! call me kenny or kensie , I go by both ! my pronouns are SHEHER ONLY   I am 14 years old so DNI if youre 18+ OR below 10 or I will block  hide you ! I have bad so (1)" src="https://github.com/user-attachments/assets/76aab544-0d66-454f-9b0f-55bdfcf2b7c3" />
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="65%">

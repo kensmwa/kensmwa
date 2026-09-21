@@ -1,5 +1,6 @@
-<img width="49%" alt="mlpm1" src="https://github.com/user-attachments/assets/a9c0a7b5-067f-4b58-bd31-8092553e9079" />
-  <img width="49%" alt="mlpm2" src="https://github.com/user-attachments/assets/e96b416b-bab9-4bbf-a56c-b03fd08c3224" />
+<img width="100%" src="https://github.com/user-attachments/assets/9c1f1a32-eb36-48d8-accb-377faf4e1cdf" />
+
+
 
 <img width="1299" height="400" alt="HI HI , WELCOME TO KENSIES PAGE ! call me kenny or kensie , I go by both ! my pronouns are SHEHER ONLY   I am 14 years old so DNI if youre 18+ OR below 10 or I will block  hide you ! I have bad so (1)" src="https://github.com/user-attachments/assets/76aab544-0d66-454f-9b0f-55bdfcf2b7c3" />
 

@@ -16,7 +16,7 @@
 
 <p align="center">
   <!-- Typing Lyric Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=900&color=#fe6ccc&background=00000000&width=800&height=60&vCenter=true&size=26&lines=I+can+never+say+goodnight;cause+your+love+is+cosmic+!+;im+riding+on+your+rhythm;through+the+solar+system;come+with+me+!" />  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=900&color=fe6ccc&background=0000000&width=800&height=60&vCenter=true&size=26&lines=I+can+never+say+goodnight;cause+your+love+is+cosmic+!+;im+riding+on+your+rhythm;through+the+solar+system;come+with+me+!" />  
 <img width="1920" height="1080" alt="O (5)" src="https://github.com/user-attachments/assets/c6bf2f33-e17c-41c5-b6c9-b05177810099" />
 
 
